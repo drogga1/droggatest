@@ -1,0 +1,13 @@
+# Rule 1
+User-agent: *
+Disallow: /_/
+Disallow: /_site/
+Disallow: /md/
+Disallow: /404.html
+Disallow: /*.css
+Disallow: /*.js
+Disallow: /*.txt
+Allow: /sitemap.xml
+
+# Rule 2
+Sitemap: http://oldneg.com/sitemap.xml
