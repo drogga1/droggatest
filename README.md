@@ -12,3 +12,19 @@ sudo apt remove --auto-remove kxstitch
 sudo apt update kxstitch
 
 cd /home/pi/og/oldaulia;jekyll build
+
+Test
+    clear; cd /home/pi/og/hellopy/ ; python helloX.py 3 0
+    clear; cd /home/pi/og/hellopy/ ; python helloX.py 6 5
+Melinkan page sgn page lain.
+misalnya liverpool akan dicari diseluruh pages yang terdaftar
+    clear; cd /home/pi/og/hellopy/ ; python helloX.py 7
+
+
+Perintah git
+    git add --all
+    git commit -m "20201109"
+    git push -u origin
+
+
+cd /home/pi/og/.oldaulia.new; jekyll build
