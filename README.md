@@ -21,10 +21,15 @@ misalnya liverpool akan dicari diseluruh pages yang terdaftar
     clear; cd /home/pi/og/hellopy/ ; python helloX.py 7
 
 
-Perintah git
+
+Perintah build jekyll
+    cd /home/pi/og/.oldaulia.new; jekyll build
+Perintah gitcd
+    PASSWORD drogga1 auliahub123
+    cd /media/pi/MICROSD1/droggatest.git
     git add --all
-    git commit -m "20201109"
+    git commit -m "20210701"
     git push -u origin
+    
 
 
-cd /home/pi/og/.oldaulia.new; jekyll build
