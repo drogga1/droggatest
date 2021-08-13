@@ -10,4 +10,4 @@ Disallow: /*.txt
 Allow: /sitemap.xml
 
 # Rule 2
-Sitemap: http://quoteme.com/sitemap.xml
+Sitemap: http://biography123.com/sitemap.xml
